@@ -1,0 +1,12 @@
+# Unmodified project originals
+/archive/
+
+# MATLAB generated files
+*.asv
+*.m~
+matlab.mat
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
